@@ -12,7 +12,7 @@ The notebooks are executed using **Google Colab** and version-controlled using *
 
 | Chapter | Topic | Progress |
 |--------|------|----------|
-| 1 | The Machine Learning Landscape | [ ] |
+| 1 | The Machine Learning Landscape | [x] |
 | 2 | End-to-End Machine Learning Project | [ ] |
 | 3 | Classification | [ ] |
 | 4 | Training Models | [ ] |
